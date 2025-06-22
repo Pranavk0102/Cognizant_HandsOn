@@ -13,7 +13,7 @@ public class RecursionExample {
   public static void main(String[] args) {
     double amount=100500.0;
     double rate=5.9;
-    int years=12;
+    int years=10;
     
     double result=Calculate(amount,rate,years);
     System.out.println("The future amount will be "+result);
