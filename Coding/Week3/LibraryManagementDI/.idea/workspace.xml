@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0a70716-2dbe-47f3-a71d-b0104aa992e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LibraryManagement/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryManagement/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryManagement/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryManagement/src/main/java/com/library/LibraryManagementApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryManagement/src/main/java/com/library/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryManagement/src/main/java/com/library/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryManagement/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryManagement/src/test/java/com/library/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/LibraryManagementDIApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/library/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/Document.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/DocumentFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/ExcelDocFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/ExcelDocument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/FactoryPatternExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/PDFDocFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/PDFDocument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/WordDocFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/WordDocument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Recursion/RecursionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SearchOperations/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SearchOperations/SearchOperationsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Singleton Pattern/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Singleton Pattern/SingletonPatternExample.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2zmZOvh3Py3ch3H6spoTjGBFNLJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LibraryManagementDIApplication.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0a70716-2dbe-47f3-a71d-b0104aa992e3" name="Changes" comment="" />
+      <created>1752338181833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752338181833</updated>
+    </task>
+    <servers />
+  </component>
+</project>

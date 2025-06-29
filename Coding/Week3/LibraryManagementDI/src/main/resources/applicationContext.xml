@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- BookRepository Bean Definition -->
+    <bean id="bookRepository"
+          class="com.library.repository.BookRepository">
+        <!-- No properties needed as it's initialized in constructor -->
+    </bean>
+
+    <!-- BookService Bean Definition with Dependency Injection -->
+    <bean id="bookService"
+          class="com.library.service.BookService">
+        <!-- Setter-based dependency injection -->
+        <property name="bookRepository" ref="bookRepository"/>
+    </bean>
+
+    <!-- Alternative: You can also define multiple BookService beans
+         with different configurations if needed -->
+
+    <!-- Example of bean with different scope (uncomment if needed)
+    <bean id="bookServicePrototype"
+          class="com.library.service.BookService"
+          scope="prototype">
+        <property name="bookRepository" ref="bookRepository"/>
+    </bean>
+    -->
+
+</beans>
