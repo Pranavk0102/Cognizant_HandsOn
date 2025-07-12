@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a70716-2dbe-47f3-a71d-b0104aa992e3" name="Changes" comment="Week 3 Solutions Uploaded">
+    <list default="true" id="c53d1808-d0b0-4092-9bea-78762a30f6e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/LibraryManagementMavenApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/library/BookServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagementDI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LibraryManagementDI/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Solutions/Week 3/Week3_BasicSpringApplication_HandsOn_Mandatory.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,9 +47,9 @@
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="2zmZOvh3Py3ch3H6spoTjGBFNLJ" />
+  <component name="ProjectId" id="2zmi3pcU7tAXAeT5rjTtqqehCTQ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -47,7 +59,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.LibraryManagementDIApplication.executor": "Run",
+    "Application.LibraryManagementMavenApplication.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -57,34 +69,12 @@
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b0a70716-2dbe-47f3-a71d-b0104aa992e3" name="Changes" comment="" />
-      <created>1752338181833</created>
+      <changelist id="c53d1808-d0b0-4092-9bea-78762a30f6e8" name="Changes" comment="" />
+      <created>1752342453699</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1752338181833</updated>
+      <updated>1752342453699</updated>
     </task>
-    <task id="LOCAL-00001" summary="Week 3 Solutions Uploaded">
-      <option name="closed" value="true" />
-      <created>1752338564836</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1752338564836</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Week 3 Solutions Uploaded">
-      <option name="closed" value="true" />
-      <created>1752338621348</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1752338621348</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="All Week2 Solutions Uploaded" />
-    <MESSAGE value="Week 3 Solutions Uploaded" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 3 Solutions Uploaded" />
   </component>
 </project>
