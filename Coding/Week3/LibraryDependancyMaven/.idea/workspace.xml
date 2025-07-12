@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c53d1808-d0b0-4092-9bea-78762a30f6e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/LibraryManagementMavenApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/repository/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/library/BookServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LibraryManagementDI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LibraryManagementDI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Solutions/Week 3/Week3_BasicSpringApplication_HandsOn_Mandatory.docx" beforeDir="false" />
-    </list>
+    <list default="true" id="c53d1808-d0b0-4092-9bea-78762a30f6e8" name="Changes" comment="Week 3 Solutions Uploaded" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +61,27 @@
       <option name="presentableId" value="Default" />
       <updated>1752342453699</updated>
     </task>
+    <task id="LOCAL-00001" summary="Week 3 Solutions Uploaded">
+      <option name="closed" value="true" />
+      <created>1752346404428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752346404428</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Week 3 Solutions Uploaded">
+      <option name="closed" value="true" />
+      <created>1752346484760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752346484760</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Week 3 Solutions Uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 3 Solutions Uploaded" />
   </component>
 </project>
