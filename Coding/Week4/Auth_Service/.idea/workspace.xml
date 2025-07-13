@@ -4,49 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3f7d6f4-01c0-4c51-bdba-df92f984d024" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/JwtAuthApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/AuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/dto/TokenResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exception/AuthenticationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/JwtService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rest_CountryWebService/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rest_CountryWebService/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rest_CountryWebService/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rest_CountryWebService/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rest_CountryWebService/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rest_CountryWebService/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rest_CountryWebService/src/main/java/com/cognizant/SpringLearnApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rest_CountryWebService/src/main/java/com/cognizant/controller/CountryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rest_CountryWebService/src/main/java/com/cognizant/model/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rest_CountryWebService/src/main/resources/application-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rest_CountryWebService/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rest_CountryWebService/src/test/java/com/cognizant/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-country/src/main/java/com/cognizant/spring_country/controller/CountryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-country/src/main/java/com/cognizant/spring_country/model/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-country/src/main/java/com/cognizant/spring_country/model/CountryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-country/src/main/java/com/cognizant/spring_country/service/CountryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-country/src/main/resources/country.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-web-framework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-web-framework/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-web-framework/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-web-framework/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-web-framework/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-web-framework/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-web-framework/src/main/java/com/cognizant/SpringLearnApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-web-framework/src/main/java/com/cognizant/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-web-framework/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-web-framework/src/test/java/controller/HelloControllerTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="d3f7d6f4-01c0-4c51-bdba-df92f984d024" name="Changes" comment="Week 4 solutions Uploaded" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,6 +59,19 @@
       <option name="presentableId" value="Default" />
       <updated>1752400998684</updated>
     </task>
+    <task id="LOCAL-00001" summary="Week 4 solutions Uploaded">
+      <option name="closed" value="true" />
+      <created>1752401967176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752401967176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Week 4 solutions Uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 4 solutions Uploaded" />
   </component>
 </project>
