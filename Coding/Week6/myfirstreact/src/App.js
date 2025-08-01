@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   return (
     <div>
-      <h1>Welcome to the first session of React</h1>
+      <h1>Welcome to the My first RE Classic 350</h1>
     </div>
   );
 }
