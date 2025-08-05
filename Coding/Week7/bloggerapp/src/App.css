@@ -1,0 +1,27 @@
+/* src/App.css */
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.column {
+  flex: 1;
+  padding: 0 20px;
+  border-right: 2px solid green;
+}
+
+.column.no-border {
+  border-right: none;
+}
+
+h1, h3 {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
